@@ -284,10 +284,6 @@ def main():
     print('_____________________________________________________________________')
     print("Enter the string to be parsed")
 
-    # user_prod = st.text_input("Enter the string to be matched.", key = 0)
-    # st.text("Example: aaabab")
-    # process = st.button("Process the parser.")
-    # if process:
     Input=user_gram+'$'
     print("printinf this", Input)
     st.write("Input string to be parsed is", Input)
